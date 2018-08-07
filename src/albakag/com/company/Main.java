@@ -20,7 +20,7 @@ public class Main {
             int ageRange = 40;
             if (employees[i].getAge() > ageRange) {
                 employees[i].showInfo();
-                System.out.println("_____________________________");
+                System.out.println("____________________________");
             }
         }
     }
